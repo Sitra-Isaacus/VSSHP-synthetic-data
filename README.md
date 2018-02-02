@@ -2,8 +2,8 @@
 
 An R package to generate synthetic data with empirical probability distributions.
 
-**This frozen release.** Further development of this package takes place at
-<https://github.com/avirkki/synergetr>.
+**This is a frozen version of the package.** Latest release can be downloaded at:
+<https://github.com/avirkki/synergetr>
 
 ## Why Synthetic Data?
 
